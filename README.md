@@ -1,3 +1,5 @@
 # hostAPI
-1.Experimention Sucess
-2.How to Build and Deploy Restful API's
+* Experimention Sucessfull
+* How to Build and Deploy Restful API's
+* https://hostapi-production-d666.up.railway.app/api/products
+* JSON formatter Extension
